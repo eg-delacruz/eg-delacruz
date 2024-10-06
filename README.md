@@ -1,7 +1,7 @@
 # 💫 About Me:
 **My name is Gerardo De La Cruz, a Fullstack Web Developer passionate about coding and software development.**<br><br>With a multicultural background and strong proficiency in English, German, and Spanish, I leverage my diverse skill set and experience to deliver outstanding results. Currently, I'm honing my skills at 42 Madrid, one of the world's most innovative training programs by Fundación Telefónica.
 
-[![erde-la-'s 42 stats](https://badge.mediaplus.ma/binary/erde-la-?UM6P=off)](https://github.com/oakoudad/badge42)
+[![erde-la-'s 42 stats](https://badge.mediaplus.ma/binary/erde-la-?UM6P=off)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/netoxas3107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eg-delacruz) 
